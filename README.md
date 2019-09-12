@@ -1,1 +1,1 @@
-# testingCO
+# Testing CODEOWNERS Sytax
